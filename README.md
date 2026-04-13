@@ -547,6 +547,10 @@ We officially thank the following contributors for their help in making this rep
 - [@hqhq1025](https://github.com/hqhq1025)
 - [@htafolla](https://github.com/htafolla)
 - [@playbookTV](https://github.com/playbookTV)
+- [@derricke](https://github.com/derricke)
+- [@HMAKT99](https://github.com/HMAKT99)
+- [@sebastiondev](https://github.com/sebastiondev)
+- [@WHOISABHISHEKADHIKARI](https://github.com/WHOISABHISHEKADHIKARI)
 
 ## Star History
 
